@@ -1,0 +1,16 @@
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.exe
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.deps.json
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.runtimeconfig.json
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.runtimeconfig.dev.json
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.dll
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\bin\Debug\net5.0\ref\FightingGame.dll
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.pdb
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.csproj.AssemblyReference.cache
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.AssemblyInfoInputs.cache
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.AssemblyInfo.cs
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.csproj.CoreCompileInputs.cache
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.dll
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\ref\FightingGame.dll
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.pdb
+C:\Users\aslund.alexander\OneDrive\Dokument\TE20B Spel - Webb\Programmering 1\Projekt\TE20B_2021_10_12_Fighting\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.genruntimeconfig.cache
